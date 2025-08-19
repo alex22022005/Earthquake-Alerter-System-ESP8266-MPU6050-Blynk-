@@ -31,7 +31,7 @@ The system detects unusual **vibrations & rotations** (simulating earthquake det
 ## 📜 Arduino Code
 The project reads MPU6050 sensor values (acceleration + rotation), detects abnormal thresholds, and notifies via Blynk, LCD, buzzer, and LED.  
 
-📂 File: `earthquake_alerter.ino`  
+📂 The full Arduino code is available in [`earthquake_alerter.ino`](https://github.com/alex22022005/-Smart-Agriculture-Monitoring-Control-System-Arduino-based-.git).  
 
 Key functions:
 - Read acceleration & rotation from MPU6050.
